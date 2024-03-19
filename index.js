@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching to Alr8 | /help"];
+const statusMessages = ["Watching to Alr8 | /play"];
 
 
 let currentIndex = 0;
