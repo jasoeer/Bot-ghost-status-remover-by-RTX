@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching to Demon's Heaven | /kick "];
+const statusMessages = ["Watching to Demon's Heaven"];
 
 
 let currentIndex = 0;
