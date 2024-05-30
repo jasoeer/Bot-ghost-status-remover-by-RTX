@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching to Demon's Heaven"];
+const statusMessages = ["Watching to Chill Chronicles"];
 
 
 let currentIndex = 0;
